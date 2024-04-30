@@ -1,16 +1,15 @@
 # freo_assignment
 
-A new Flutter project.
+This project coveres the following-
+- Get Data from wiki API
+- Save Data to local using prisma
+- Unit test cases for getting data from API
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run the application
+`flutter run`
 
-A few resources to get you started if this is your first Flutter project:
+To run the tests
+`flutter test`
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
